@@ -4,4 +4,4 @@
 O objetivo deste projeto é oferecer uma plataforma intuitiva e responsiva para streaming de conteúdo multimídia.
 
 # Demonstração
-Você pode acessar a versão ao vivo do site de streaming através deste link: [Streaming BSPLAY](https://brunajoycee.github.io/Streaming_BSPLAY/)
+🔗 Você pode acessar a versão ao vivo do site de streaming através deste link: [Streaming BSPLAY](https://brunajoycee.github.io/Streaming_BSPLAY/)
